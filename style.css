@@ -1,0 +1,9 @@
+body{
+  background: #111;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+canvas{
+  border-radius: 5px;
+}
